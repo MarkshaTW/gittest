@@ -1,4 +1,4 @@
-marksia   ttys000                   Tue Feb  7 09:48   still logged in
+mandyting   ttys000                   Tue Feb  7 09:48   still logged in
 marksia   ttys001                   Mon Feb  6 12:09   still logged in
 marksia   ttys000                   Mon Feb  6 10:54   still logged in
 marksia   ttys004                   Mon Feb  6 10:38   still logged in
