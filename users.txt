@@ -1,0 +1,50 @@
+marksia   ttys000                   Tue Feb  7 09:48   still logged in
+marksia   ttys001                   Mon Feb  6 12:09   still logged in
+marksia   ttys000                   Mon Feb  6 10:54   still logged in
+marksia   ttys004                   Mon Feb  6 10:38   still logged in
+marksia   ttys003                   Mon Feb  6 10:37   still logged in
+marksia   ttys000                   Mon Feb  6 10:34   still logged in
+marksia   ttys000                   Mon Feb  6 10:29   still logged in
+marksia   ttys000                   Mon Feb  6 10:28   still logged in
+marksia   ttys002                   Mon Feb  6 10:18   still logged in
+marksia   ttys001                   Mon Feb  6 10:16   still logged in
+marksia   ttys000                   Mon Feb  6 10:15   still logged in
+marksia   console                   Mon Feb  6 10:15   still logged in
+reboot    ~                         Mon Feb  6 10:15 
+marksia   ttys000                   Sat Feb  4 18:01 - crash (1+16:13)
+marksia   ttys000                   Sat Feb  4 17:43 - crash (1+16:31)
+marksia   ttys000                   Fri Feb  3 16:16 - crash (2+17:58)
+marksia   ttys000                   Fri Feb  3 16:09 - crash (2+18:05)
+marksia   ttys000                   Fri Feb  3 16:07 - crash (2+18:07)
+marksia   ttys000                   Fri Feb  3 16:07 - crash (2+18:07)
+marksia   ttys000                   Fri Feb  3 14:49 - crash (2+19:25)
+marksia   ttys000                   Fri Feb  3 14:49 - crash (2+19:25)
+marksia   ttys000                   Fri Feb  3 14:27 - crash (2+19:47)
+marksia   ttys000                   Fri Feb  3 12:11 - crash (2+22:03)
+marksia   ttys000                   Fri Feb  3 12:00 - crash (2+22:15)
+marksia   ttys000                   Fri Feb  3 11:06 - crash (2+23:08)
+marksia   console                   Fri Feb  3 10:35 - crash (2+23:39)
+reboot    ~                         Fri Feb  3 10:34 
+marksia   console                   Thu Feb  2 22:51 - crash  (11:43)
+reboot    ~                         Thu Feb  2 22:50 
+_mbsetupuser  console                   Thu Feb  2 12:45 - crash  (10:05)
+marksia   console                   Thu Feb  2 12:45 - crash  (10:05)
+reboot    ~                         Thu Feb  2 12:44 
+root      console                   Thu Feb  2 12:38 - crash  (00:05)
+marksia   console                   Thu Feb  2 12:23 - crash  (00:20)
+marksia   console                   Thu Feb  2 12:04 - crash  (00:39)
+_mbsetupuser  console                   Thu Feb  2 11:41 - crash  (01:03)
+marksia   console                   Thu Feb  2 11:40 - crash  (01:03)
+kkbox     console                   Wed Jan 25 10:51 - crash (8+01:53)
+reboot    ~                         Wed Jan 25 10:52 
+_mbsetupuser  console                   Mon Dec  5 11:56 - crash (50+22:56)
+berlinhsin  console                   Mon Dec  5 11:56 - crash (50+22:56)
+kkbox     console                   Mon Dec  5 11:54 - crash (50+22:58)
+_mbsetupuser  console                   Mon Dec  5 11:51 - crash (50+23:00)
+root      console                   Mon Dec  5 11:51 - 11:51  (00:00)
+reboot    ~                         Mon Dec  5 11:51 
+_mbsetupuser  console                   Wed Nov 23 16:34 - crash (11+19:16)
+root      console                   Wed Nov 23 16:34 - 16:34  (00:00)
+reboot    ~                         Wed Nov 23 16:33 
+
+wtmp begins Wed Nov 23 16:33 
